@@ -1,5 +1,4 @@
 ##
-
 (1)
 WAP to find display the even numbers between 10 and 20. The display should include 10 and 20.
 
@@ -33,4 +32,4 @@ Take a look at the counter programs discussed in last week class.
 
 Push your updated files to the repository to receive class credits for the current week. 
 
-
+Deadline: 11/29/2022 8:00 AM.
